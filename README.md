@@ -146,4 +146,4 @@ Detailed design decisions and experiment logs are currently maintained in Chines
 
 ## Citation and License
 
-A `CITATION.cff` file and an explicit code license should be added before the repository is made public. NBA marks, player headshots, and third-party data remain the property of their respective rights holders and are not redistributed by default.
+The project code is released under the [MIT License](LICENSE). NBA marks, player headshots, and third-party data remain the property of their respective rights holders and are not redistributed by default.
