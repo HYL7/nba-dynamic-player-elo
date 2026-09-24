@@ -1,0 +1,46 @@
+players_kept=1225
+min_regular_games=100
+min_playoff_games=5
+
+quadrant_counts:
+quadrant
+Q1    218
+Q2    333
+Q3    188
+Q4    486
+
+top_playoff_minus_regular:
+        full_name  regular_change_rate  playoff_change_rate  playoff_minus_regular quadrant
+   Mickey Johnson            -0.000170             0.006222               0.006392       Q2
+  Anthony Roberts            -0.000778             0.004941               0.005719       Q2
+Shammond Williams            -0.000257             0.005359               0.005617       Q2
+  Davion Mitchell             0.000108             0.004284               0.004175       Q1
+        Bob Gross            -0.000255             0.003879               0.004135       Q2
+  Derrick Coleman            -0.000048             0.003800               0.003848       Q2
+     Terry Furlow            -0.000272             0.003408               0.003679       Q2
+     Jerome James            -0.000314             0.003354               0.003669       Q2
+   Ernie Grunfeld            -0.000282             0.003306               0.003589       Q2
+     Johnny Davis            -0.000183             0.003271               0.003454       Q2
+  Blair Rasmussen            -0.000207             0.003209               0.003416       Q2
+       Ron Brewer            -0.000163             0.003213               0.003376       Q2
+  Andrew Nembhard             0.000126             0.003468               0.003341       Q1
+      Lavoy Allen            -0.000194             0.003082               0.003276       Q2
+   Andres Nocioni            -0.000170             0.002948               0.003118       Q2
+
+bottom_playoff_minus_regular:
+      full_name  regular_change_rate  playoff_change_rate  playoff_minus_regular quadrant
+      Phil Ford             0.000137            -0.006519              -0.006656       Q4
+George McGinnis             0.000346            -0.005483              -0.005829       Q4
+    Larry Kenon             0.000234            -0.004107              -0.004341       Q4
+ Terrence Jones             0.000877            -0.003369              -0.004246       Q4
+ David Thompson             0.000182            -0.003701              -0.003883       Q4
+      Sam Bowie             0.000212            -0.003608              -0.003820       Q4
+   Leon Douglas             0.000094            -0.003495              -0.003589       Q4
+    Jalen Duren             0.001002            -0.002458              -0.003460       Q4
+ Rudy Fernandez             0.000496            -0.002842              -0.003338       Q4
+     Phil Smith             0.000093            -0.003229              -0.003322       Q4
+Stephon Marbury             0.000206            -0.003103              -0.003309       Q4
+Wilson Chandler             0.000063            -0.003184              -0.003247       Q4
+   Reggie Theus             0.000192            -0.002977              -0.003169       Q4
+ Quentin Grimes             0.000503            -0.002659              -0.003162       Q4
+      John Drew             0.000127            -0.003000              -0.003127       Q4

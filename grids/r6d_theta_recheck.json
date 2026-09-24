@@ -1,0 +1,8 @@
+[
+  {"k": 45, "scale": 285, "theta": 0, "h": 70, "alpha_modern": 1.0, "alpha_ref": 1.0, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"},
+  {"k": 45, "scale": 285, "theta": 0.1, "h": 70, "alpha_modern": 1.0, "alpha_ref": 1.0, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"},
+  {"k": 45, "scale": 285, "theta": 0.3, "h": 70, "alpha_modern": 1.0, "alpha_ref": 1.0, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"},
+  {"k": 45, "scale": 318, "theta": 0, "h": 70, "alpha_modern": 0.9, "alpha_ref": 0.9, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"},
+  {"k": 45, "scale": 318, "theta": 0.1, "h": 70, "alpha_modern": 0.9, "alpha_ref": 0.9, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"},
+  {"k": 45, "scale": 318, "theta": 0.3, "h": 70, "alpha_modern": 0.9, "alpha_ref": 0.9, "playoff_k": 1, "rookie_boost": 6, "rookie_tau": 60, "rookie_start": 1425, "on_court_mode": "raw"}
+]

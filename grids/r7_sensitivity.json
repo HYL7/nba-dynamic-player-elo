@@ -1,0 +1,54 @@
+[
+  {
+    "k": 45.0,
+    "scale": 285.0,
+    "theta": 0.0,
+    "h": 70.0,
+    "alpha_modern": 1.0,
+    "alpha_ref": 1.0,
+    "playoff_k": 1.0,
+    "rookie_boost": 6.0,
+    "rookie_tau": 60.0,
+    "rookie_start": 1425.0,
+    "on_court_mode": "raw"
+  },
+  {
+    "k": 45.0,
+    "scale": 315.0,
+    "theta": 0.0,
+    "h": 70.0,
+    "alpha_modern": 0.9,
+    "alpha_ref": 0.9,
+    "playoff_k": 1.0,
+    "rookie_boost": 6.0,
+    "rookie_tau": 60.0,
+    "rookie_start": 1425.0,
+    "on_court_mode": "raw"
+  },
+  {
+    "k": 45.0,
+    "scale": 318.0,
+    "theta": 0.0,
+    "h": 70.0,
+    "alpha_modern": 0.9,
+    "alpha_ref": 0.9,
+    "playoff_k": 1.0,
+    "rookie_boost": 6.0,
+    "rookie_tau": 60.0,
+    "rookie_start": 1425.0,
+    "on_court_mode": "raw"
+  },
+  {
+    "k": 45.0,
+    "scale": 320.0,
+    "theta": 0.0,
+    "h": 70.0,
+    "alpha_modern": 0.9,
+    "alpha_ref": 0.9,
+    "playoff_k": 1.0,
+    "rookie_boost": 6.0,
+    "rookie_tau": 60.0,
+    "rookie_start": 1425.0,
+    "on_court_mode": "raw"
+  }
+]

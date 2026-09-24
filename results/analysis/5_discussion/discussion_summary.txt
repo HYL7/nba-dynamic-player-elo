@@ -1,0 +1,46 @@
+Discussion checks
+
+Career-cluster recreation agreement: 100.0%
+Minutes-weighted league mean: 1459.6 in 1976-77; 1609.6 in 1983-84; post-1983 median 1640.1.
+
+Magic/Bird sensitivity:
+       player              variant  first_season_used  games_used  assigned_cluster  distance_early  distance_mid  distance_late  season_relative_cluster
+Magic Johnson          Full career               1979        1077                 3        9.577163      6.946518       3.470075                        3
+Magic Johnson  Drop first 1 season               1980         984                 3        9.989654      7.571671       3.405898                        3
+Magic Johnson Drop first 2 seasons               1981         944                 3        9.862643      7.306925       3.269586                        3
+Magic Johnson Drop first 3 seasons               1982         852                 3        9.544881      6.848877       3.257995                        3
+Magic Johnson Drop first 4 seasons               1983         760                 3        9.218047      6.629549       3.662465                        3
+Magic Johnson   Begin with 1983-84               1983         760                 3        9.218047      6.629549       3.662465                        3
+   Larry Bird          Full career               1979        1045                 3        8.320492      4.786870       3.080043                        3
+   Larry Bird  Drop first 1 season               1980         954                 3        7.758440      4.131182       3.641682                        3
+   Larry Bird Drop first 2 seasons               1981         855                 2        6.857004      3.600787       4.834458                        3
+   Larry Bird Drop first 3 seasons               1982         766                 2        5.696377      3.186619       5.828716                        3
+   Larry Bird Drop first 4 seasons               1983         681                 2        4.560081      4.206651       7.201699                        3
+   Larry Bird   Begin with 1983-84               1983         681                 2        4.560081      4.206651       7.201699                        3
+
+Game Score z-score distribution by era:
+ period  player_games  mean_z  sd_z  skew_z  p01_z  p10_z  median_z  p90_z  p99_z  minutes_weighted_p10_z  minutes_weighted_median_z  minutes_weighted_p90_z  minutes_weighted_p99_z
+1976-79         70178     0.0   1.0   0.689 -1.596 -1.131    -0.185  1.453  2.627                  -0.928                      0.224                   1.753                   2.797
+  1980s        191521     0.0   1.0   0.704 -1.581 -1.124    -0.186  1.443  2.666                  -0.911                      0.249                   1.752                   2.836
+  1990s        221851     0.0   1.0   0.715 -1.579 -1.119    -0.194  1.451  2.669                  -0.902                      0.255                   1.761                   2.833
+  2000s        242249     0.0   1.0   0.749 -1.572 -1.111    -0.199  1.450  2.702                  -0.907                      0.231                   1.776                   2.870
+  2010s        247775     0.0   1.0   0.718 -1.619 -1.123    -0.183  1.439  2.697                  -0.942                      0.183                   1.731                   2.863
+  2020s        153255     0.0   1.0   0.748 -1.586 -1.119    -0.185  1.433  2.733                  -0.924                      0.195                   1.733                   2.886
+
+LeBron peak gap by playoff weight:
+playoff_k       leader  leader_peak_elo           second  second_peak_elo   gap
+      k=0 LeBron James          2296.46   Michael Jordan          2271.36 25.10
+    k=0.5 LeBron James          2303.45   Michael Jordan          2272.69 30.76
+      k=1 LeBron James          2310.91 Shaquille O'Neal          2274.66 36.25
+    k=1.5 LeBron James          2335.09 Shaquille O'Neal          2284.54 50.55
+      k=2 LeBron James          2355.27 Shaquille O'Neal          2293.72 61.55
+
+Peak-era counts:
+top_n    10   20   50   100
+period                     
+1976-79    0    0    1    1
+1980s      1    1    4   12
+1990s      2    4    7   13
+2000s      2    6   14   27
+2010s      2    4   12   24
+2020s      3    5   12   23

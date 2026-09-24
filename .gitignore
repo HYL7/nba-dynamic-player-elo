@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local tools and temporary work
+.tools/
+.tmp*/
+scratch/
+*.log
+
+# Data layers and databases
+raw_data/
+processed_data/
+clean_data/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.parquet
+
+# Large generated model outputs
+results/final/
+results/archive/
+results/playoff_variants/
+results/video/
+results/headshots*/
+results/*.db*
+
+# Video and presentation production
+video_ppt/
+audio/
+doc/
+
+# Rendered media
+*.mp4
+*.mov
+*.avi
+*.mkv

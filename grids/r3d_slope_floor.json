@@ -1,0 +1,9 @@
+{
+  "k": [45],
+  "scale": [285],
+  "rookie_boost": [6],
+  "rookie_tau": [60],
+  "pick1_rating": [1490],
+  "pick_slope": [3, 4, 5, 6],
+  "rookie_floor": [1300, 1325, 1350, 1375, 1400]
+}
